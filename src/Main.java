@@ -17,6 +17,12 @@ public class Main {
     }
 
     private static void task2() {
+        var friend = 19;
+        System.out.println(friend);
+        friend = friend +2;
+        System.out.println(friend);
+        friend = friend / 7;
+        System.out.println(friend);
     }
 
     private static void task1() {
